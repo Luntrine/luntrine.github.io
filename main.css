@@ -21,11 +21,10 @@ tbody {
     font-size: 18px;
 }
 
-#head {
-    font-size: 60px;
-}
-
-
+head { 
+   border-bottom: 1px solid #d5d5d5; 
+    
+} 
 
 footer { 
     /*border-top: 1px solid #d5d5d5; */
