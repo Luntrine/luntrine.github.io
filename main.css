@@ -11,6 +11,21 @@ p {
     line-height: 1.4em; 
     color: #333; 
 } 
+
+thead {
+    font-size: 30px;
+}
+
+tbody {
+    font-size: 18px;
+}
+
+#head {
+    font-size: 60px;
+}
+
+
+
 footer { 
     border-top: 1px solid #d5d5d5; 
     font-size: .8em; 
