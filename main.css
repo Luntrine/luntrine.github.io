@@ -36,6 +36,10 @@
     overflow: scroll;
 }
 
+.header{
+  text-align: center;  
+}
+
 body { 
     margin: 60px auto; 
     width: calc(100% - 60px);
