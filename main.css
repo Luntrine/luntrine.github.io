@@ -44,7 +44,7 @@ footer {
 } 
  
 nav ul, footer ul { 
-    font-family:'Helvetica', 'Arial', 'Sans-Serif'; 
+    font-family:'Readex Pro', 'Arial'; 
     padding: 0px; 
     list-style: none; 
     font-weight: bold; 
@@ -60,13 +60,4 @@ a {
 } 
 a:hover { 
     text-decoration: underline; 
-} 
- 
-ul.posts {  
-    margin: 20px auto 40px;  
-    font-size: 1.5em; 
-} 
- 
-ul.posts li { 
-    list-style: none; 
 } 
