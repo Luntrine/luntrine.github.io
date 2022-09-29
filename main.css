@@ -7,18 +7,18 @@
     font-family:'Readex Pro', 'Arial';
 }
 
-.everything {
-    position: absolute;
+.bgvideo {
+    position: fixed;
     right: 0;
-    width: 100%;
-    min-hieght: 100vh;
-    padding: 100px;
-    display: flex;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    /*display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: center;*/
     background: #111;
     color: #fff;
-    z-index: 2;
+    /*z-index: 2;*/
 }
 
 
