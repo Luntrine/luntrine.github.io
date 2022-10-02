@@ -32,6 +32,11 @@
   text-align: center;  
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
+
 body { 
     margin: 60px auto; 
     width: calc(100% - 60px);
