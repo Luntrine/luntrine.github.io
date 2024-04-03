@@ -22,7 +22,7 @@
 */
 
 .everything{
-    padding: 25px;
+    padding: 15px;
     background-color: rgba(00,00,00,0.2);
     border: 5px solid rgb(100,100,100);
     border-radius: 5px;
@@ -35,6 +35,7 @@
 ::-webkit-scrollbar {
     display: none;
 }
+
 
 body { 
     margin: 60px auto; 
@@ -51,6 +52,7 @@ h1 {
 
 thead {
     font-size: 30px;
+    bo
 }
 
 tbody {
@@ -72,12 +74,10 @@ nav ul li, footer ul li {
     display: inline; 
     margin-right: 20px; 
 } 
-
 a { 
     text-decoration: none; 
     color: #666; 
 } 
-
 a:hover { 
     text-decoration: underline; 
 } 
