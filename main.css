@@ -22,8 +22,8 @@
 .everything{
     padding: 15px;
     padding-bottom: 20px;
-    background-color: rgba(00,00,00,0.6);
-    border: 1px solid rgb(222,222,222);
+    background-color: rgba(00,00,00,0.2);
+    border: 5px solid rgb(275,275,275);
     border-radius: 5px;
     overflow: scroll;
 }
@@ -41,7 +41,7 @@ body {
     margin: 60px auto; 
     width: calc(100% - 60px);
     max-width: 1100px;
-    color: white;
+    color: black;
 }
 
 h1 { 
